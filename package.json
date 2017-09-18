@@ -1,6 +1,6 @@
 {
-  "name": "Simple React Grommet Application",
-  "version": "0.1.0",
+  "name": "Login page",
+  "version": "0.0.1",
   "dependencies": {
     "grommet": "^1.3.4",
     "grommet-css": "^1.0.0",

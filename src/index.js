@@ -5,6 +5,4 @@ import './index.css';
 import '../node_modules/grommet-css'
 
 ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);
+  <App/>, document.getElementById('root'));
